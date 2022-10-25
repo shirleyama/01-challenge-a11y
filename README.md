@@ -18,7 +18,7 @@ To access the website click [Horiseon Website](https://github.com/shirleyama/cha
 ## Usage 
 
 ```md
-![Horiseon's Marketing Agency website screenshot](/assets/images/01-html-css-git-challenge-demo.png "Horiseon's Marketing Agency website screenshot")
+![Horiseon's Marketing Agency website screenshot](https://github.com/shirleyama/01-challenge-a11y/blob/main/assets/images/01-html-css-git-challenge-demo.png "Horiseon's Marketing Agency website screenshot")
 ```
 
 ## Credits
@@ -42,10 +42,8 @@ To access the website click [Horiseon Website](https://github.com/shirleyama/cha
 Last but not the least and comes highly recommended
 * [Frontend Web Bootcamp Course ](https://courses.bootcampspot.com/)
 
-
 ## License
 The MIT License
-
 
 ## Tests
 
