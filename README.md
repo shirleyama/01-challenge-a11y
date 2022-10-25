@@ -12,7 +12,7 @@ include a link to the deployed application here.
 
 ## Installation
 
-To access the website click , the screenshot can be found below.
+To access the website click [Horiseon Website](https://github.com/shirleyama/challenge-01-a11y), the screenshot can be found below.
 
 
 ## Usage 
