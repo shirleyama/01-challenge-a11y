@@ -8,17 +8,21 @@ It was built with HTML, CSS which are essential for building web pages. It also 
 
 Some of the challenges faced was trying to write meaningful Acceptance Criteria given the scenario. 
 
-include a link to the deployed application here.
+### The URL of the GitHub repository.
+[Horiseon GitHub repository](https://github.com/shirleyama/01-challenge-a11y)
+### The URL of the functional, deployed application on GitHub Pages.
+[Horiseon Website](https://shirleyama.github.io/01-challenge-a11y/)
+
 
 ## Installation
 
-To access the website click [Horiseon Website](https://github.com/shirleyama/challenge-01-a11y), the screenshot can be found below.
+To access the website click [Horiseon Website](https://shirleyama.github.io/01-challenge-a11y/), the screenshot can be found below.
 
 
 ## Usage 
 
 ```md
-![Horiseon's Marketing Agency website screenshot](https://github.com/shirleyama/01-challenge-a11y/blob/main/assets/images/01-html-css-git-challenge-demo.png "Horiseon's Marketing Agency website screenshot")
+![Horiseon's Marketing Agency website screenshot](https://shirleyama.github.io/01-challenge-a11y/assets/images/01-html-css-git-challenge-demo.png "Horiseon's Marketing Agency website screenshot")
 ```
 
 ## Credits
