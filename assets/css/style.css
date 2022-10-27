@@ -32,6 +32,21 @@ header h1 {
     font-size: 48px;
 }
 
+#skiptocontent a {
+    padding: 6px;
+    position: absolute;
+    top: -40px;
+    left: 0px;
+    color: white;
+    border-right: 1px solid white;
+    border-bottom: 1px solid white;
+    border-bottom-right-radius: 8px;
+    background: #BF1722;
+    -webkit-transition: top 1s ease-out;
+    transition: top 1s ease-out;
+    z-index: 100;
+}
+
 header h1 .seo {
     color: #d9dcd6;
 }
