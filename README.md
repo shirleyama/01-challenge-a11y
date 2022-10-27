@@ -22,7 +22,7 @@ To access the website click [Horiseon Website](https://shirleyama.github.io/01-c
 ## Usage 
 
 ```md
-![Horiseon's Marketing Agency website screenshot]([assets/images/01-html-css-git-challenge-demo.png](https://github.com/shirleyama/01-challenge-a11y/blob/main/assets/images/01-html-css-git-challenge-demo.png))
+![Horiseon's Marketing Agency website screenshot](assets/images/01-html-css-git-challenge-demo.png)
 ```
 ## Credits
 
